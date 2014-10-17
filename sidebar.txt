@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[guq:home|Door43 (guq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-guq|d43-guq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-guq/archive/master.zip|d43-guq.zip]]
+
+**Recent Changes**
+{{changes>ns = guq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/guq|Ethnologue data]]
+
